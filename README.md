@@ -29,4 +29,4 @@ Yes, the tool ensures that all operations are performed securely, keeping your d
 Yes, this tool supports downloading various formats, including vector files and images, if available on Freepik.
 
 ## Try it now
-[👉 Access the Freepik Image Downloader here!](https://onlinejsonformatter.com/freepik-image-downloader)
+[👉 Access the Freepik Image Downloader here!](https://www.freepik.com/free-photos-vectors/downloader)
